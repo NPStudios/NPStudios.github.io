@@ -39,7 +39,6 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` lisNPStudios.github.io
-t.
 #
 # exclude:
 #   - .sass-cache/
