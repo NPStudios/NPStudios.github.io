@@ -19,7 +19,7 @@ nav_order: 3
 
 ## Assessment 1 
 
-> * Zip File: [FILE HERE](https://github.com/Luceapuce/SEPR-project)
+> * Zip File: [Assessment 1](/downloads/assessment-one.zip)
 > * Website: [Source Code](https://github.com/NPStudios/NPStudios.github.io)
 
 ---
