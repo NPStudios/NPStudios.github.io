@@ -14,18 +14,36 @@ nav_order: 2
 ## Members: 
 ---
 > ### Lucy Ivatt:
-> > Course: 
+> > Course: MEng Computer Science with Year in Industry 
 
-> > Email:
-
-> > Likes: 
-
-
+> > Role: Technical Directior
 
 ---
 > ### Jordan Spooner: 
-> > Course:
+> > Course: BSc Computer Science with Year in Industry 
 
-> > Email:
+> > Role: Librarian
 
-> > Likes:
+---
+> ### Alasdair Pilmore-Bedford: 
+> > Course: BEng Computer Science with Year in Industry 
+
+> > Role: Creative Director
+
+---
+> ### Matthew Gilmore: 
+> > Course: BEng Computer Science with Year in Industry 
+
+> > Role: Secretary
+
+---
+> ### Bruno Davies: 
+> > Course: BEng Computer Science with Year in Industry 
+
+> > Role: Report Editor
+
+---
+> ### Cassandra Lillystone: 
+> > Course: BSc Computer Science with Year in Industry 
+
+> > Role: Meeting Chair
