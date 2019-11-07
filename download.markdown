@@ -5,4 +5,4 @@ permalink: /download/
 nav_order: 4
 ---
 ### Download our game:
-> ...game still under development
+> ...game still under development 😭
