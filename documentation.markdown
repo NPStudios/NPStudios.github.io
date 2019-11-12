@@ -19,8 +19,12 @@ nav_order: 3
 
 ## Assessment 1 
 
-> * Zip File: [Assessment 1](/downloads/assessment-one.zip)
-> * Requirements: [PDF](/downloads/Req1.pdf)
+> * Zip File: [Assessment 1](/files/NPStudios.zip)
+> * Requirements: [PDF](/files/Req1.pdf)
+> * Architecture: [PDF](/files/Arch1.pdf)
+> > Test
+> * Method & Planning: [PDF](/files/Plan1.pdf)
+> * Risk & Mitigation: [PDF](/files/Risk1.pdf)
 
 ---
 ## Assessment 2
