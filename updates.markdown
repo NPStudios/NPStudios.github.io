@@ -12,6 +12,7 @@ nav_order: 5
 
 This has been a long week with lots of reading, rereading and even more reading... But we feel confident with the doucmentation we submitted and we even have some time to spare. We are now straight into the second assessment with some actual game development which will be fun. We will be posting an update when we have some new information 
 
+---
 
 ### GitHub Pages is up! 🙌
 > 06.11.2019
