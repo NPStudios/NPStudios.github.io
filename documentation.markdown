@@ -23,7 +23,7 @@ nav_order: 3
 > * Requirements: [PDF](/files/Req1.pdf)
 > * Architecture: [PDF](/files/Arch1.pdf)
 > > * Sequence Diagram: [PDF](/files/SEPR_Sequence_Diagram_1.pdf)
-> > * Class Diagram: [PDF](/files/SEPR_UML_Class_Diagram_1.pdf)
+> > * Class Diagram: [PDF](/files/SEPR_UML_CLass_Diagram_1.pdf)
 > * Method & Planning: [PDF](/files/Plan1.pdf)
 > > * Gantt Chart: [PDF](/files/assessment2ganttchart.pdf)
 > * Risk & Mitigation: [PDF](/files/Risk1.pdf)
