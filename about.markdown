@@ -40,7 +40,7 @@ nav_order: 2
 > ### Bruno Davies: 
 > > Course: BEng Computer Science with Year in Industry 
 
-> > Role: Report Editor
+> > Role: Tester
 
 ---
 > ### Cassandra Lillystone: 
