@@ -37,7 +37,7 @@ nav_order: 3
 > * Implementation and Report: [PDF]()
 > * Testing Report: [PDF]()
 > * Updates on Assessment 1 Deliverables: [PDF]()
-> > * Statement of Requirements: [PDF]()
+> > * Statement of Requirements: [PDF](/files/Updated_Statement_of_Requirements.pdf)
 > > * Plans: [PDF]()
 > > * Risk Table: [PDF]()
 > > * Risk Tracker: [PDF]()
