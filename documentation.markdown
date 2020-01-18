@@ -33,7 +33,7 @@ nav_order: 3
 
 > * Zip File:
 > * Architecture: [PDF]()
-> > * Concrete Architecture: [PNG]()
+> > * Concrete Architecture: [PNG](/files/concrete_arch.png)
 > * Implementation and Report: [PDF]()
 > * Testing Report: [PDF]()
 > * Updates on Assessment 1 Deliverables: [PDF]()
