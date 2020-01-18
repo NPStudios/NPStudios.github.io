@@ -8,6 +8,6 @@ nav_order: 4
 > The game is out 👾
 > * [Executable JAR file]()
 > * User Manual: 
-> > * [PDF]()
-> > * [Editable]()
+> > * [PDF](/files/User_Manual_PDF.pdf)
+> > * [Editable](/files/User_Manual_Edit.docx)
 
