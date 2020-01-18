@@ -33,13 +33,15 @@ nav_order: 3
 
 > * Zip File:
 > * Architecture: [PDF]()
+> > * Concrete Architecture: [PNG]()
 > * Implementation and Report: [PDF]()
 > * Testing Report: [PDF]()
 > * Updates on Assessment 1 Deliverables: [PDF]()
 > > * Statement of Requirements: [PDF]()
 > > * Plans: [PDF]()
-> > * Risk Register: [PDF]()
+> > * Risk Table: [PDF]()
 > > * Risk Tracker: [PDF]()
+> > * Explanation of Changes to Tools/Methods: [PDF]()
 
 ---
 ## Assessment 3
