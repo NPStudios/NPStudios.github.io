@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Testing
-permalink: /assessment/testing
+permalink: /testing/
+nav_order: 6
 ---
 
 # Testing
