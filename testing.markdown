@@ -9,9 +9,9 @@ nav_order: 6
 This section provides the testing design (from tracability matrix to test documentation) and also links to the most up-to-date test coverage of the game!
 
 ## Test Design:
-> > * Tracability Matrix: [PDF](/files/tracability_matrix.pdf)
-> > * Test Documentation: [PDF](/files/test_plan.pdf)
+> * Tracability Matrix: [PDF](/files/tracability_matrix.pdf)
+> * Test Documentation: [PDF](/files/test_plan.pdf)
 
 ## Evidence of Testing: 
-> > * To find latest testing: [Link]()
+> * To find latest testing: [Link]()
 
