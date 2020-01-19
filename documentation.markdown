@@ -31,7 +31,7 @@ nav_order: 3
 ---
 ## Assessment 2
 
-> * Zip File:
+> * Zip File (Link to Google Drive - too big for upload): [ZIP](https://drive.google.com/file/d/1oKb7pmtM3k39VLTqCmIO5Vs_OURu5g3k/view?usp=sharing)
 > * Architecture: [PDF](/files/Arch2.pdf)
 > > * Concrete Architecture: [PNG](/files/concrete_arch.png)
 > * Implementation and Report: [PDF](/files/Impl2.pdf)
