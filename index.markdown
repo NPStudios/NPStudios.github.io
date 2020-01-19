@@ -14,3 +14,4 @@ This is our SEPR group, named Null Pointer Studios, GitHub pages. This is where 
 
 ### [Assessment 2](https://npstudios.github.io/assessments/#assessment-2)
 > Here you can find all of our documentation for assessment 2 for this module. 
+> > * [Testing](/testing/) documents for part 3 of the Testing Report can be found here. 
