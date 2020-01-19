@@ -32,11 +32,11 @@ nav_order: 3
 ## Assessment 2
 
 > * Zip File:
-> * Architecture: [PDF]()
+> * Architecture: [PDF](/files/Arch2.pdf)
 > > * Concrete Architecture: [PNG](/files/concrete_arch.png)
-> * Implementation and Report: [PDF]()
-> * Testing Report: [PDF]()
-> * Updates on Assessment 1 Deliverables: [PDF]()
+> * Implementation and Report: [PDF](/files/Impl2.pdf)
+> * Testing Report: [PDF](/files/Test2.pdf)
+> * Updates on Assessment 1 Deliverables: [PDF](/files/Updates2.pdf)
 > > * Statement of Requirements: [PDF](/files/Updated_Statement_of_Requirements.pdf)
 > > * Updated Plans: [PDF](/files/Updated_Plans.pdf)
 > > * Risk Register: [PDF](/files/Updated_Risk_Register.pdf)
