@@ -10,7 +10,7 @@ This section provides the testing design (from tracability matrix to test docume
 
 ## Test Design:
 > * Tracability Matrix: [PDF](/files/tracability_matrix.pdf)
-> * Test Documentation: [PDF](/files/test_plan.pdf)
+> * Test Documentation: [PDF](/files/test_documentation.pdf)
 
 ## Evidence of Testing: 
 > * To find latest testing: [Link]()
