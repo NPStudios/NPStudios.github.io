@@ -13,5 +13,5 @@ This section provides the testing design (from tracability matrix to test docume
 > * Test Documentation: [PDF](/files/test_documentation.pdf)
 
 ## Evidence of Testing: 
-> * To find latest testing: Go to [zipped](https://drive.google.com/file/d/1H4JW_dwoqctEgOOuH97xNl6Nck0H5exh/view?usp=sharing) file, download and use the code provided, under /core/test is all the non-manual testing 
+> * To find latest testing: Go to [zipped](https://drive.google.com/file/d/1H4JW_dwoqctEgOOuH97xNl6Nck0H5exh/view?usp=sharing) file, download and use the code provided, under /core/test is where the tests are. To run these test in one go, left click the /core/test/java file and run it! [See Image](how_to_test.png)
 
