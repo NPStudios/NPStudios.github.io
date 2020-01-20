@@ -13,5 +13,5 @@ This section provides the testing design (from tracability matrix to test docume
 > * Test Documentation: [PDF](/files/test_documentation.pdf)
 
 ## Evidence of Testing: 
-> * To find latest testing: [Link]()
+> * To find latest testing: Go to [zipped]() file, download and use the code provided, under /core/test is all the non-manual testing 
 
