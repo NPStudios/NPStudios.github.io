@@ -35,6 +35,8 @@ nav_order: 3
 > * Architecture: [PDF](/files/Arch2.pdf)
 > > * Concrete Architecture: [PNG](/files/concrete_arch.png)
 > * Implementation and Report: [PDF](/files/Impl2.pdf)
+> > * [PDF](/files/User_Manual_PDF.pdf)
+> > * [Editable](/files/User_Manual_Edit.docx)
 > * Testing Report: [PDF](/files/Test2.pdf)
 > > * Testing Documentation and Evidence: [Link](/testing/)
 > * Updates on Assessment 1 Deliverables: [PDF](/files/Updates2.pdf)
