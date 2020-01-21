@@ -35,6 +35,7 @@ nav_order: 3
 > * Architecture: [PDF](/files/Arch2.pdf)
 > > * Concrete Architecture: [PNG](/files/concrete_arch.png)
 > * Implementation and Report: [PDF](/files/Impl2.pdf)
+> > * JavaDocs: [rar](/files/JavaDoc.rar)
 > > * User Manual: [PDF](/files/User_Manual_PDF.pdf)
 > > * User Manual: [Editable](/files/User_Manual_Edit.docx)
 > * Testing Report: [PDF](/files/Test2.pdf)
