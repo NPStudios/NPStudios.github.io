@@ -5,7 +5,13 @@ permalink: /updates/
 nav_order: 5
 ---
 
-## Updates: 
+## Updates:
+---
+### Game v1.0 working 🌱
+> 12.01.2020
+
+Since exams have finished we have just been working on getting a working version of the game out. This is a beta's beta version but it works fully whihc is great! It looks really nice due to a dedicated graphics team and there aren't any majpr bugs. This works out great for our time line since the Assessment 2 is due soon. Now its back to writing up all the documentation and ensuring strong test coverage...
+
 ---
 ### Assessment 1 is Complete
 > 12.11.2019
