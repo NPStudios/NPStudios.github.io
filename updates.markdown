@@ -7,6 +7,12 @@ nav_order: 5
 
 ## Updates:
 ---
+### Assessment 2 is Complete ✔️
+> 20.01.2020
+
+Whew! Assessment 2 has been handed in! We, similar to last assessment, had to reread and edit a lot of our documentation which was tedious... However, we are confident in our reports being top notch! We had a few last minutes pushes to the GitHub from the testing team but in the end it all worked out. Now waiting for the results. 
+
+---
 ### Game v1.0 working 🌱
 > 12.01.2020
 
