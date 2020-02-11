@@ -13,7 +13,7 @@ nav_order: 5
 Since exams have finished we have just been working on getting a working version of the game out. This is a beta's beta version but it works fully whihc is great! It looks really nice due to a dedicated graphics team and there aren't any majpr bugs. This works out great for our time line since the Assessment 2 is due soon. Now its back to writing up all the documentation and ensuring strong test coverage...
 
 ---
-### Assessment 1 is Complete
+### Assessment 1 is Complete ✔️
 > 12.11.2019
 
 This has been a long week with lots of reading, rereading and even more reading... But we feel confident with the doucmentation we submitted and we even have some time to spare. We are now straight into the second assessment with some actual game development which will be fun. We will be posting an update when we have some new information 
