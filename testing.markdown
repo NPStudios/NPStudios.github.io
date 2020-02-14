@@ -5,13 +5,17 @@ permalink: /testing/
 nav_order: 6
 ---
 
-# Testing Additional Documentation (Part C)
-This section provides the testing design (from tracability matrix to test documentation) and also links to the most up-to-date test coverage of the game!
+# Testing Documentation for Assessment 3 and 4
+This section provides the testing design (from tracability matrix to test documentation) and also links to the most up-to-date test coverage of the game for each Assessment!
 
-## Test Design:
+## Assessment 3
+### Test Design:
 > * Tracability Matrix: [PDF](/files/tracability_matrix.pdf)
 > * Test Documentation: [PDF](/files/test_documentation.pdf)
 
-## Evidence of Testing: 
+### Evidence of Testing: 
 > * To find latest testing: Go to [zipped](https://drive.google.com/file/d/1H4JW_dwoqctEgOOuH97xNl6Nck0H5exh/view?usp=sharing) file, download and use the code provided, under /core/test is where the tests are. To run these test in one go, left click the /core/test/java file and run it! [See Image](/files/how_to_test.png)
+
+
+## Assessment 4
 
