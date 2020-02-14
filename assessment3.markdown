@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Other Group Help!
-permalink: /other_group/
-nav_order: 7
+title: Assessment 3
+permalink: /assessment3_other_docs/
+nav_order: 8
 ---
