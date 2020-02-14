@@ -49,9 +49,17 @@ nav_order: 3
 
 ---
 ## Assessment 3
+### DicyCat's Documentation
 
-> * Zip File:
-> * See all documentation (including previous group) at: 
+### NPStudio's Documentation 
+> * Zip File: [Assessment 3](/files/NPStudios3.zip)
+> * Change Report: [PDF](/files/ChangeReport3.pdf)
+> > * Change Tracker: [PDF](/files/ChangeTracker3.pdf)
+> > * Updated Assessment 4 Plan: [PDF](files/UpdatedAssessmentPlan4.pdf)
+> * Implementation: [PDF](/files/Impl3.pdf)
+> > * Additions UML Diagram: [PDF](/files/Additions_UML_Diagram.pdf)
+> > * New and Changed Requirements: [PDF](NewChangedRequirements.pdf)
+> * Updated Testing Documentation: [Link]()
 
 ---
 ## Assessment 4
