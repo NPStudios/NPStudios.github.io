@@ -58,7 +58,7 @@ nav_order: 3
 > > * Updated Assessment 4 Plan: [PDF](files/UpdatedAssessment4Plan.pdf)
 > * Implementation: [PDF](/files/Impl3.pdf)
 > > * Additions UML Diagram: [PDF](/files/Additions_UML_Diagram.png)
-> > * New and Changed Requirements: [PDF](NewandChangedRequirements.pdf)
+> > * New and Changed Requirements: [PDF](/files/NewandChangedRequirements.pdf)
 > * Updated Testing Documentation: [Link](https://npstudios.github.io/testing/#assessment-3)
 
 ---
