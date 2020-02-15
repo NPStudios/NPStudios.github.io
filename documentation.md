@@ -54,12 +54,12 @@ nav_order: 3
 ### NPStudio's Documentation 
 > * Zip File: [Assessment 3](/files/NPStudios3.zip)
 > * Change Report: [PDF](/files/ChangeReport3.pdf)
-> > * Change Tracker: [PDF](/files/ChangeTracker3.pdf)
-> > * Updated Assessment 4 Plan: [PDF](files/UpdatedAssessmentPlan4.pdf)
+> > * Change Tracker: [PDF](/files/ChangeTracker.pdf)
+> > * Updated Assessment 4 Plan: [PDF](files/UpdatedAssessment4Plan.pdf)
 > * Implementation: [PDF](/files/Impl3.pdf)
-> > * Additions UML Diagram: [PDF](/files/Additions_UML_Diagram.pdf)
-> > * New and Changed Requirements: [PDF](NewChangedRequirements.pdf)
-> * Updated Testing Documentation: [Link]()
+> > * Additions UML Diagram: [PDF](/files/Additions_UML_Diagram.png)
+> > * New and Changed Requirements: [PDF](NewandChangedRequirements.pdf)
+> * Updated Testing Documentation: [Link](https://npstudios.github.io/testing/#assessment-3)
 
 ---
 ## Assessment 4
