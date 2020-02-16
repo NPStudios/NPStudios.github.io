@@ -18,4 +18,9 @@ This section provides the testing design (from tracability matrix to test docume
 
 
 ## Assessment 3
+### Documentation: 
+> > * Tracebility Matrix: 
+
+### Statistics: 
+> > Individual Test Duration: (/files/Test_Analytics.html)
 
