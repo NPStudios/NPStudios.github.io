@@ -54,7 +54,7 @@ nav_order: 3
 > * Assessment 2: [Link](https://sites.google.com/york.ac.uk/dicycat/assessment-2)
 
 ### NPStudio's Documentation 
-> * Zip File: [Assessment 3](/files/NPStudios3.zip)
+> * Zip File (Link to Google Drive - too big for upload): [Assessment 3](https://drive.google.com/a/york.ac.uk/file/d/1hCI18toSEIZz-qg6yBEtQAsWX4GtxSHX/view?usp=sharing)
 > * Change Report: [PDF](/files/ChangeReport3.pdf)
 > > * Change Tracker: [PDF](/files/ChangeTracker.pdf)
 > > * Change Management Table: [PDF](/files/ChangeManagementTable.pdf)
