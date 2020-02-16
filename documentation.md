@@ -54,7 +54,7 @@ nav_order: 3
 > > * Requirements: [PDF](/files/DicyCat_Assessment1/Requirements.pdf)
 > > * Architecture: [PDF](/files/DicyCat_Assessment1/Arch1.pdf)
 > > * Method and Planning: [PDF](/files/DicyCat_Assessment1/MethodSelectionandPlanning.pdf)
-> > * Risk and Mitigation: [PDF](/files/DicyCat_Assessment1/RiskAssessmentandMitigation.pdf)
+> > * Risk and Mitigation: [PDF](/files/DicyCat_Assessment1/Risks AssessmentandMitigation.pdf.pdf)
 > > * Use Cases: [PDF](/files/DicyCat_Assessment1/UseCases.pdf)
 > * Assessment 2: [Link](https://sites.google.com/york.ac.uk/dicycat/assessment-2)
 
