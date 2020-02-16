@@ -60,7 +60,7 @@ nav_order: 3
 > * Assessment 2:
 > > * Zip File: [ZIP](/files/DicyCat_Assessment2/DicyCat.zip)
 > > * Architecture: [PDF](/files/DicyCat_Assessment2/ArchitectureReport.pdf)
-> > > * Justification: [PDF](Architecture Report.pdf)
+> > > * Justification: [PDF](ArchitectureReport.pdf)
 > > > * Run Time Architecture: [PNG](/files/DicyCat_Assessment2/RuntimeModel.png)
 > > > * Static UML Diagram: [PDF](/files/DicyCat_Assessment2/StaticUMLModel.pdf)
 
