@@ -51,7 +51,7 @@ nav_order: 3
 ## Assessment 3
 ### DicyCat's Documentation
 > * Assessment 1: [Link](https://sites.google.com/york.ac.uk/dicycat/assessment-1)
-> * Assessment 2: [Link]https://sites.google.com/york.ac.uk/dicycat/assessment-2
+> * Assessment 2: [Link](https://sites.google.com/york.ac.uk/dicycat/assessment-2)
 
 ### NPStudio's Documentation 
 > * Zip File: [Assessment 3](/files/NPStudios3.zip)
