@@ -56,7 +56,7 @@ nav_order: 3
 > > * Method and Planning: [PDF](/files/DicyCat_Assessment1/MethodSelectionandPlanning.pdf)
 > > * Risk and Mitigation: [PDF](/files/DicyCat_Assessment1/RisksAssessmentandMitigation.pdf)
 > > * Use Cases: [PDF](/files/DicyCat_Assessment1/UseCases.pdf)
-> * Assessment 2: [Link](https://sites.google.com/york.ac.uk/dicycat/assessment-2)
+> * Assessment 2: [Link](/DicyCat_Assessment2/Architecture Report.pdf)
 
 ### NPStudio's Documentation 
 > * Zip File (Link to Google Drive - too big for upload): [Assessment 3](https://drive.google.com/a/york.ac.uk/file/d/1hCI18toSEIZz-qg6yBEtQAsWX4GtxSHX/view?usp=sharing)
