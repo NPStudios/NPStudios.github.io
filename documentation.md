@@ -56,7 +56,28 @@ nav_order: 3
 > > * Method and Planning: [PDF](/files/DicyCat_Assessment1/MethodSelectionandPlanning.pdf)
 > > * Risk and Mitigation: [PDF](/files/DicyCat_Assessment1/RisksAssessmentandMitigation.pdf)
 > > * Use Cases: [PDF](/files/DicyCat_Assessment1/UseCases.pdf)
-> * Assessment 2: [Link](/DicyCat_Assessment2/Architecture Report.pdf)
+
+> * Assessment 2:
+> > * Zip File: [ZIP](/files/DicyCat_Assessment2/DicyCat.zip)
+> > * Architecture: [PDF](/files/DicyCat_Assessment2/ArchitectureReport.pdf)
+> > > * Justification: [PDF](Architecture Report.pdf)
+> > > * Run Time Architecture: [PNG](/files/DicyCat_Assessment2/RuntimeModel.png)
+> > > * Static UML Diagram: [PDF](/files/DicyCat_Assessment2/StaticUMLModel.pdf)
+
+> > * Implementation and Report: [PDF](/files/DicyCat_Assessment2/ImplementationReport.pdf)
+> > > * User Manual: [PDF](/files/DicyCat_Assessment2/DicyCatKroyManual.pdf)
+> > > * User Manual: [Editable](/files/DicyCat_Assessment2/DicyCatKroyManual(editable).pptx)
+
+> > * Testing Report: [PDF](/files/DicyCat_Assessment2/TestingReport.pdf)
+> > > * Testing Methods and Approaches: [PDF](/files/DicyCat_Assessment2/TestingMethodsandApproaches.pdf)
+
+> > * Updates on Assessment 1 Deliverables:
+> > > * Updated Requirements Report: [PDF](/files/DicyCat_Assessment2/Requirements.pdf)
+> > > * Statement of Requirements: [PDF](/files/DicyCat_Assessment2/UpdatedRequirements.pdf)
+> > > * Updated Method and Plans Report: [PDF](/files/DicyCat_Assessment2/MethodsandPlans.pdf)
+> > > * Updated Plans: [PDF](/files/DicyCat_Assessment2/UpdatedMethodsandPlans.pdf)
+> > > * Risk Register: [PDF](/files/DicyCat_Assessment2/RisksandMitigation.pdf)
+> > > * Risk Tracker: [PDF](/files/DicyCat_Assessment2/UpdatedRisksandMitigationStrategies.pdf)
 
 ### NPStudio's Documentation 
 > * Zip File (Link to Google Drive - too big for upload): [Assessment 3](https://drive.google.com/a/york.ac.uk/file/d/1hCI18toSEIZz-qg6yBEtQAsWX4GtxSHX/view?usp=sharing)
