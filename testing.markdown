@@ -22,5 +22,5 @@ This section provides the testing design (from tracability matrix to test docume
 > > * Tracebility Matrix: 
 
 ### Statistics: 
-> > Individual Test Duration: (/files/Test_Analytics.html)
+> > Individual Test Duration: [HTML](/files/Test_Analytics.html)
 
