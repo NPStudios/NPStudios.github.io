@@ -87,7 +87,7 @@ nav_order: 3
 > > * Change Management Table: [PDF](/files/ChangeManagementTable.pdf)
 > > * Updated Assessment 4 Plan: [PDF](files/UpdatedAssessment4Plan.pdf)
 > > * Updated User Manual: [PDF](/files/UserManual.pdf)
-> > * Updated User Manual (Editable): [PPTX](DicyCatKroyManual(editable).pptx)
+> > * Updated User Manual (Editable): [PPTX](/files/DicyCatKroyManual(editable).pptx)
 > * Implementation: [PDF](/files/Impl3.pdf)
 > > * Additions UML Diagram: [PDF](/files/Additions_UML_Diagram.png)
 > > * New and Changed Requirements: [PDF](/files/NewandChangedRequirements.pdf)
