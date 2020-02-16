@@ -81,10 +81,13 @@ nav_order: 3
 
 ### NPStudio's Documentation 
 > * Zip File (Link to Google Drive - too big for upload): [Assessment 3](https://drive.google.com/a/york.ac.uk/file/d/1hCI18toSEIZz-qg6yBEtQAsWX4GtxSHX/view?usp=sharing)
-> * Change Report: [PDF](/files/ChangeReport3.pdf)
+> * JAR of Kroy Game: [JAR](/Assessment3Jar/desktop-1.0.jar)
+> * Change Report: [PDF](/files/Change3.pdf)
 > > * Change Tracker: [PDF](/files/ChangeTracker.pdf)
 > > * Change Management Table: [PDF](/files/ChangeManagementTable.pdf)
 > > * Updated Assessment 4 Plan: [PDF](files/UpdatedAssessment4Plan.pdf)
+> > * Updated User Manual: [PDF](/files/UserManual.pdf)
+> > * Updated User Manual (Editable): [PPTX](DicyCatKroyManual(editable).pptx)
 > * Implementation: [PDF](/files/Impl3.pdf)
 > > * Additions UML Diagram: [PDF](/files/Additions_UML_Diagram.png)
 > > * New and Changed Requirements: [PDF](/files/NewandChangedRequirements.pdf)
