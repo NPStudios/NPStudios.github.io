@@ -23,4 +23,4 @@ This section provides the testing design (from tracability matrix to test docume
 
 ### Statistics: 
 > * Individual Test Duration: [HTML](/files/Test_Analytics.html)
-> * Overall Test Analytics: [HTML](/files/test_analytics/index.html
+> * Overall Test Analytics: [HTML](/files/test_analytics/index.html)
