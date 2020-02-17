@@ -27,14 +27,19 @@ A solution we looked into was to mock these classes, however since they are neve
 
 It was to create an alternate code base where the testing team would slightly alter the code to allow for the classes to be tested. Any class that did not need altering, like GameObject or Entity, have their tests in both the main code base and the altered code base. We ensured that all changes made were to non-functional aspects of the classes, like GUI or camera viewing. This way we are sure that the tests still cover relevent code and through intergation testsing and mocking we have a strong test suite. 
 	
-To keep track of the changes being made we kept a table with names for changes, which class they are in, and a description of why these changes were being made. Both sets of tests, on the main code base and altered, are included the the testing design and other testing documentation.  
+To keep track of the changes being made we kept a table with names for changes, which class they are in, and a description of why these changes were being made. Both sets of tests, on the main code base and altered, are included the the testing design and other testing documentation. This table can be found below in Documentation, and the [Altered Code Base](https://github.com/Luceapuce/SEPR-Assessment-Three/tree/unit_testing) here or find the Zipped version below.
+
+### Altered Code Base:
+> * Altered Code: [ZIP](/files/Assessment3_TestDocuments/SEPR-Assessment-Three-unit_testing.zip)
+
 ### Documentation: 
 > * Tracebility Matrix: [PDF](/files/Assessment3_TestDocuments/UserRequirementTraceabilityMatrix.pdf)
 > * Testing Design and Documenation: [PDF](/files/Assessment3_TestDocuments/TestDesignandDocumentation.pdf)
+> * Altered Code Documentation: [PDF](/files/Assessment3_TestDocuments/AlteredCodeDocumentation.pdf)
 
 ### Statistics: 
 > * Individual Test Duration: [HTML](/files/Assessment3_TestDocuments/Specific_Test_Stats.html)
 > * Overall Test Analytics: [HTML](/files/Assessment3_TestDocuments/index.html)
 
 ### Run Tests: 
-> * Insdide the main root folder there is a 'tests' folder, left click and press 'Run ...' to run all tests! [See Image]()
+> * Insdide the main root folder there is a 'tests' folder, left click and press 'Run ...' to run all tests! [See Image](/files/Assessment3_TestDocuments/runTestPicture.png). This works for both versions of the code. 
