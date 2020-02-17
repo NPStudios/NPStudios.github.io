@@ -40,6 +40,7 @@ To keep track of the changes being made we kept a table with names for changes, 
 > * Altered Code Documentation: [PDF](/files/Assessment3_TestDocuments/AlteredCodeDocumentation.pdf)
 
 ### Statistics: 
+> * Report: [PDF](/files/Assessment3_TestDocuments/TestingStatisticsAnalysis.pdf)
 > * Individual Test Duration: [HTML](/files/Assessment3_TestDocuments/Specific_Test_Stats.html)
 > * Overall Test Analytics: [HTML](/files/Assessment3_TestDocuments/index.html)
 
