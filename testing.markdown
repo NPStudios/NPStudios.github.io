@@ -31,6 +31,8 @@ To keep track of the changes being made we kept a table with names for changes, 
 
 ### Altered Code Base:
 > * Altered Code: [ZIP](/files/Assessment3_TestDocuments/SEPR-Assessment-Three-unit_testing.zip)
+> > [Time Stamp](https://github.com/NPStudios/NPStudios.github.io/commit/b00c366a2c57ec7d8e1e6f86171e7b22e17c6c6d)
+> * GitHub for Altered Code: [Link](https://github.com/Luceapuce/SEPR-Assessment-Three/tree/unit_testing)
 
 ### Documentation: 
 > * Tracebility Matrix: [PDF](/files/Assessment3_TestDocuments/UserRequirementTraceabilityMatrix.pdf)
