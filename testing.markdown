@@ -19,8 +19,12 @@ This section provides the testing design (from tracability matrix to test docume
 
 ## Assessment 3
 ### Documentation: 
-> * Tracebility Matrix: 
+> * Tracebility Matrix: [PDF](/files/Assessment3_TestDocuments/UserRequirementTraceabilityMatrix.pdf)
+> * Testing Design and Documenation: [PDF](/files/Assessment3_TestDocuments/TestDesignandDocumentation.pdf)
 
 ### Statistics: 
-> * Individual Test Duration: [HTML](/files/Test_Analytics.html)
-> * Overall Test Analytics: [HTML](/files/test_analytics/index.html)
+> * Individual Test Duration: [HTML](/files/Assessment3_TestDocuments/Specific_Test_Stats.html)
+> * Overall Test Analytics: [HTML](/files/Assessment3_TestDocuments/index.html)
+
+### Run Tests: 
+> * Insdide the main root folder there is a 'tests' folder, left click and press 'Run ...' to run all tests! [See Image]()
