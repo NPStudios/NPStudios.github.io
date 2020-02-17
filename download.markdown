@@ -13,9 +13,9 @@ nav_order: 4
 
 ### Download our game from Assessment 3:
 > Updated game which we inherited from DicyCat! ♻️
-> * [Executable JAR file]()
+> * [Executable JAR file](/files/Assessment3Jar/desktop-1.0.jar)
 > * User Manual: 
-> > * [PDF]()
-> > * [Editable]()
+> > [PDF](/files/UserManual.pdf)
+> > [Editable PPTX](/files/DicyCatKroyManual(editable).pptx)
 
 
