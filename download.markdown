@@ -15,8 +15,8 @@ nav_order: 4
 > Updated game which we inherited from DicyCat! ♻️
 > * [Executable JAR file](/files/Assessment3Jar/desktop-1.0.jar)
 > * User Manual: 
-> > [PDF](/files/UserManual.pdf)
+> > * [PDF](/files/UserManual.pdf)
 
-> > [Editable PPTX](/files/DicyCatKroyManual(editable).pptx)
+> > * [Editable PPTX](/files/DicyCatKroyManual(editable).pptx)
 
 
