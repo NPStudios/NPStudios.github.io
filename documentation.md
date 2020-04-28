@@ -100,8 +100,8 @@ nav_order: 3
 > * JAR of Kroy Game: 
 > * Assessment 4 Deliverables
   > * Implementation Report: [PDF](/files/Impl4.pdf) 
-  > * Evaluation and Testing Report:
-  > * Project Review Report
+  > * Evaluation and Testing Report: [PDF](/files/ET4.pdf)
+  > * Project Review Report: [PDF](/files/Review4.pdf)
 > * Updated User Manual: [PDF](/files/UserManualA4.pdf)
 > * Final Requirements: [PDF](/files/FinalRequirementsA4.pdf)
 > * Requirements Met: [PDF](/files/RequirementsMetA4.pdf)
@@ -109,7 +109,7 @@ nav_order: 3
 > * Change Tracker: [PDF](/files/ChangeTrackerA4.pdf)
 > * Updated UML: [PDF](/files/UpdatedUMLA4.png)
 > * Testing: [Link]()
-> > * Traceability matrix
-> > * Testing plans and results 
+> > * Traceability matrix: [PDF]()
+> > * Testing plans and results: [PDF](/files/TestDocumentationA4.pdf)
 > > * Test coverage 
 > > * Executable tests
