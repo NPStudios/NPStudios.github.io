@@ -96,4 +96,20 @@ nav_order: 3
 ---
 ## Assessment 4
 
-> * Zip File:
+> * Zip File: 
+> * JAR of Kroy Game: 
+> * Assessment 4 Deliverables
+  > * Implementation Report: 
+  > * Evaluation and Testing Report:
+  > * Project Review Report
+> * Updated User Manual: 
+> * Final Requirements: [PDF](/files/FinalRequirementsA4.pdf)
+> * Requirements Met: [PDF](/files/RequirementsMetA4.pdf)
+> * Updated Risk Register:
+> * Change Tracker
+> * Updated UML: [PDF](UpdatedUMLA4.png)
+> * Testing: [Link]()
+> > * Traceability matrix
+> > * Testing plans and results 
+> > * Test coverage 
+> > * Executable tests
