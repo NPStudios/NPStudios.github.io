@@ -46,3 +46,10 @@ To keep track of the changes being made we kept a table with names for changes, 
 
 ### Run Tests: 
 > * Insdide the main root folder there is a 'tests' folder, left click and press 'Run ...' to run all tests! [See Image](/files/Assessment3_TestDocuments/runTestPicture.png). This works for both versions of the code. 
+
+
+## Assessment 4
+### Documentation:
+> * Test Design and Documentation: [PDF](/files/TestDocumentationTableA4.pdf)
+> * Traceability Matrixes: [PDF](/files/TraceabilityMatrixAllTestA4.pdf]
+> * Play-Through Feedback: [PDF](/files/UserFeedbakcAndResponseA4.pdf]
