@@ -52,4 +52,4 @@ To keep track of the changes being made we kept a table with names for changes, 
 ### Documentation:
 > * Test Design and Documentation: [PDF](/files/TestDocumentationTableA4.pdf)
 > * Traceability Matrixes: [PDF](/files/TraceabilityMatrixAllTestA4.pdf)
-> * Play-Through Feedback: [PDF](/files/UserFeedbakcAndResponseA4.pdf)
+> * Play-Through Feedback: [PDF](/files/UserFeedbackAndResponseA4.pdf)
