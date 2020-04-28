@@ -54,3 +54,5 @@ To keep track of the changes being made we kept a table with names for changes, 
 > * Traceability Matrixes: [PDF](/files/TraceabilityMatrixAllTestA4.pdf)
 > * Play-Through Feedback: [PDF](/files/UserFeedbackAndResponseA4.pdf)
 ### Statistics: 
+> * Individual Test Duration: [HTML](/files/AllTests_Details.html)
+> * Overall Test Analytics: [HTML](/files/Test_Summary.html)
