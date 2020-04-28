@@ -99,7 +99,7 @@ nav_order: 3
 > * Zip File: 
 > * JAR of Kroy Game: 
 > * Assessment 4 Deliverables
-  > * Implementation Report: 
+  > * Implementation Report: [PDF](/files/Impl4.pdf) 
   > * Evaluation and Testing Report:
   > * Project Review Report
 > * Updated User Manual: [PDF](/files/UserManualA4.pdf)
