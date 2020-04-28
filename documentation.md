@@ -102,12 +102,12 @@ nav_order: 3
   > * Implementation Report: 
   > * Evaluation and Testing Report:
   > * Project Review Report
-> * Updated User Manual: 
+> * Updated User Manual: [PDF](/files/UserManualA4.pdf)
 > * Final Requirements: [PDF](/files/FinalRequirementsA4.pdf)
 > * Requirements Met: [PDF](/files/RequirementsMetA4.pdf)
-> * Updated Risk Register:
-> * Change Tracker
-> * Updated UML: [PDF](UpdatedUMLA4.png)
+> * Updated Risk Register: [PDF](/files/UpdatedRiskRegisterA4.pdf)
+> * Change Tracker: [PDF](/files/ChangeTrackerA4.pdf)
+> * Updated UML: [PDF](/files/UpdatedUMLA4.png)
 > * Testing: [Link]()
 > > * Traceability matrix
 > > * Testing plans and results 
