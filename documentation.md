@@ -109,7 +109,6 @@ nav_order: 3
 > * Change Tracker: [PDF](/files/ChangeTrackerA4.pdf)
 > * Updated UML: [PDF](/files/UpdatedUMLA4.png)
 > * Testing: [Link](https://npstudios.github.io/testing/#assessment-4)
-> > * Traceability matrix: [PDF]()
+> > * Traceability matrix: [PDF](/files/TraceabilityMatrixA4.pdf)
 > > * Testing plans and results: [PDF](/files/TestDocumentationA4.pdf)
-> > * Test coverage:  
 > > * Executable tests: [Link](https://npstudios.github.io/testing/#statistics-1)
