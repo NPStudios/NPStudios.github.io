@@ -56,3 +56,7 @@ To keep track of the changes being made we kept a table with names for changes, 
 ### Statistics: 
 > * Individual Test Duration: [HTML](/files/AllTests_Details.html)
 > * Overall Test Analytics: [HTML](/files/Test_Summary.html)
+### Play-Through:
+> * Feedback and Changes Table: [PDF](/files/PTAndFeedbackA4.pdf)
+> * Consent Form: [PDF](/files/ConsentFormA4.pdf)
+> * Demographics Form: [PDF](/files/DemographicsFormA4.pdf)
